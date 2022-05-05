@@ -1,5 +1,7 @@
 # Starcoin 开发者网站
 
+**this project is archived, for new version of Starcoin.org, see `https://github.com/starcoinorg/starcoin-org-v2`**
+
 ### PreRequirement
 
 1. Install [hugo](https://gohugo.io/getting-started/installing/) > 0.68.0
